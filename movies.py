@@ -4,7 +4,7 @@ import webbrowser
 # create a class to hold functions
 # init holds a place in memory for function values
 # self creates an instance of the object title, ect. 
-class = Movies():
+class = Movie():
 	def __init__(self, movie_title, movie_about, poster_img, trailer_youtube):
 		self.title = movie_title
 		self.about = movie_about
